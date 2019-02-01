@@ -34,3 +34,12 @@ $ pip install -e .
 ```
 
 Full installation guide for [Raspberry PI & Raspbian](https://github.com/ttu/ruuvitag-sensor/blob/master/install_guide_pi.md)
+
+### First run
+
+* Clone from git:
+   * `git clone https://github.com/drvrh/GATEWAY_RUUVI_MQTT.git`
+* `cd GATEWAY_RUUVI_MQTT`   
+* `python3 test3.py`
+
+
