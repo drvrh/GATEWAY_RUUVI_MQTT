@@ -44,4 +44,8 @@ Full installation guide for [Raspberry PI & Raspbian](https://github.com/ttu/ruu
 * Edit file, with your RUUVI MAC address and IP of your MQTT broker
 * `python3 test3.py`
 
-
+### TO DO:
+1. Multiple publish all data from RUUVI
+2. Use multiple RUUVI at once Gateway
+3. Update simple MQTT with secure MQTT (username, password and SSL)
+4. ... please commit and make live this code :D
