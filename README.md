@@ -40,6 +40,8 @@ Full installation guide for [Raspberry PI & Raspbian](https://github.com/ttu/ruu
 * Clone from git:
    * `git clone https://github.com/drvrh/GATEWAY_RUUVI_MQTT.git`
 * `cd GATEWAY_RUUVI_MQTT`   
+* `nano test3.py`
+* Edit file, with your RUUVI MAC address and IP of your MQTT broker
 * `python3 test3.py`
 
 
