@@ -48,4 +48,4 @@ Full installation guide for [Raspberry PI & Raspbian](https://github.com/ttu/ruu
 1. Multiple publish all data from RUUVI
 2. Use multiple RUUVI at once Gateway
 3. Update simple MQTT with secure MQTT (username, password and SSL)
-4. ... please commit and make live this code :D
+### 4. ... please commit and make live this code :D
